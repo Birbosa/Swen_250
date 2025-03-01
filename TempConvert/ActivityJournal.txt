@@ -1,0 +1,29 @@
+SWEN-250 Activity Reflection
+
+Name: Griffin Isaac
+
+================================================================
+Start Part 1
+Estimated Time	01 10
+Plan: implement basic commands, set up program, test program, repeat untill desired result is reached. 
+(Order of implementation, testing approach, etc.)
+Make code, test, format spacing, test, take things one step at a time fixing issues as they arise
+Complete
+Actual Time	02 00
+Observations: compiles failed: 8
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+figured out order of operations and how to do it. additionally i learned how to reorder a fraction to use instead of a double value, and that float values could also be used as fractions. finally, i learned how to format a print statement to print the information out properly.
+
+================================================================
+Start Part 2
+Estimated Time	01 00
+Plan:
+(Order of implementation, testing approach, etc.)
+build compile, ect, just doing the work
+Complete
+Actual Time	01 00
+Observations:
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+I learned how to set the amount of decimal point son a float operator, otherwise it was the same problems as above, minus an hour of just plugging the computer in and restoring files
+
+================================================================

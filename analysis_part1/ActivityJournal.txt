@@ -1,0 +1,113 @@
+SWEN-250 Document Analysis Journal
+
+Implement these functions in the order below.
+
+Your name: Griffin Isaac
+
+================================================================
+create_node
+Start
+Estimated Time	01 00
+Plan: code, test, implement, then trace errors
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 45 (first test went badly, had to re-ssh) 
+Observations: nodes can be tricky, but using previous experience, and tying it into java can make it easier to understa-
+nd and dont forget to read the .h file for struct info!
+
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+================================================================
+valid_parameters
+Start
+Estimated Time	00 10
+Plan: Follow instructions exactly, can't go wrong that way.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 06
+Observations: Try the easy way first (turn words into code). If it worksm life becomes 10x easier
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+================================================================
+
+add_node_at_head
+Start
+Estimated Time	01 00
+Plan: use previous functions, try only heads, if that doesn't work incorperate tails. 
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 20
+Observations: it works! but the test says clear lists is also there, that seems to be a big problem. adding now.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+clear_linked_list
+Start
+Estimated Time	00 45
+Plan: It seems like i need to readjust times, since i am getting the hang of this. Stack overflow is an amazing resource to find, and test through make file.
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 00
+Observations: I kept trying to use "word" instead of "unique_word", remeber to keep the structs somewher visable so you can refer back to them.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+add_node_after_current
+Start
+Estimated Time	00 47
+Plan: add node to next in linked list i think
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 30
+Observations: Use the add node after head idea, but modify for node at next, the idea seems simple but makes sense
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_current_word
+Start
+Estimated Time	01 00
+Plan:
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 10
+Observations: Sometimes sticking to basics can get the job done faster
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+get_previous_word and get_next_word
+Start
+Estimated Time	02 00
+Plan: Test, write, test again untill it clicks
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	00 30
+Observations: They were really easy to program together because the code for previous could be reworked into the code for next, used git lab for copy pasting purposes
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
+find_word
+Start
+Estimated Time	01 00
+Plan: its gonna be a long one, so use as many previous segmants as possible
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 10
+Observations: Drafted out in vscode, and thought it was good. ran test and it came back bad, consulted internet, redid the code, tests still bad. 
+After I went back and made more changes, finally worked. easily the hardest one and i learned to give myself enough time to complete it.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

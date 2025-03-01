@@ -1,0 +1,45 @@
+SWEN-250 Activity Journal
+C pointers light Practice Practicum
+
+Name: Griffin Isaac
+
+================================================================
+Overall comments on: ????
+
+Amount of description in the cpractice2.c file: Minimal, was in a haze while working on it
+
+Amount of description in the webpage: ??????
+
+General comments: It was a very useful refreshed
+
+================================================================
+get_pointer_at_position
+Actual Time	10
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+get_y_values
+Actual Time	30
+Lessons learned, problems encountered, obstacles overcome, etc.
+I need to double check code, and running make file can find a lot of errors
+================================================================
+get_sum_and_free_space
+Actual Time	10
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+same_array
+Actual Time	30
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+bool_flip_flop
+Actual Time	30
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================
+fix_bad_code
+Actual Time	10
+Lessons learned, problems encountered, obstacles overcome, etc.
+
+================================================================

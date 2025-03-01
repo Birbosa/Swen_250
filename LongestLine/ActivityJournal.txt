@@ -1,0 +1,29 @@
+SWEN-250 Activity Reflection
+
+Name: Griffin Isaac
+
+================================================================
+Part 1
+Estimated Time	01 30
+Plan: Analyse the requirements, 
+(Order of implementation, testing approach, etc.)
+Build, test, use vs code to prototyoe the code and then add it to the vim slot, and make sure it works
+Complete
+Actual Time	04 00
+Observations: I was overthinking it way too much, I need to keep my problem solving simple where i can
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+Make sure to look for help and ensure that you useall the tool given to you
+
+================================================================
+Part 2
+Estimated Time	01 00
+Plan: Same as before, just with more testing in vim over vs code
+(Order of implementation, testing approach, etc.)
+
+Complete 1 attempt needed
+Actual Time	00 05
+Observations: I realized that doing my work in 10 minut intervals can help me stay focused, and that when im not in an academic enviroment, i do work at extermly late hours. Also by not overthinking it, the task became easy.
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

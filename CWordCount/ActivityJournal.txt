@@ -1,0 +1,19 @@
+SWEN-250 Activity Reflection
+
+Name: Griffin Isaac
+
+================================================================
+Start 2:00
+Estimated Time	01 10
+Plan: I am going to create the wordcount paramaters based off of what was discussed in classs, run it and test for accuracy. then if it is incorrect im going to add an attempt and try to fix any displayed problems.
+(Order of implementation, testing approach, etc.)
+Failed Formating: 35 times
+
+
+Complete 3:15
+Actual Time	01 15
+Observations: when not accounting for possible overlap, foratting and error scenarios, one may experience constant errors untill it is fixed. also sometimes spacing things out the dirty simple way without %number(var) makes life a lot easier
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================

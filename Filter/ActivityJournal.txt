@@ -1,0 +1,17 @@
+SWEN-250 Activity Reflection
+
+Name:
+
+================================================================
+Start
+Estimated Time	02 00
+Plan: work through all things as effeciently as possible with what was given already
+(Order of implementation, testing approach, etc.)
+
+Complete
+Actual Time	01 00
+Observations: don't start over for eveything, use what you know and have to streamline the work proccess
+(Lessons learned, problems encountered, obstacles overcome, etc.)
+
+
+================================================================
